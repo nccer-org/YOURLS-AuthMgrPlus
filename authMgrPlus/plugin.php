@@ -452,6 +452,7 @@ function amp_env_check() {
 				ampCap::ShareURL,
 				ampCap::Traceless,
 				ampCap::ManageAnonURL,
+                                ampCap::ManageUsrsURL,  // allow editors to manage others' URLS
 				ampCap::APIu,
 				ampCap::ViewStats,
 				ampCap::ViewAll,
